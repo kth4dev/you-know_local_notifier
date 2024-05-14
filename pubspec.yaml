@@ -1,7 +1,7 @@
-name: youknow_local_notifier
+name: local_notifier
 description: This plugin allows Flutter desktop apps to displaying local notifications.
 version: 0.1.6
-homepage: https://github.com/kth4dev/youknow_local_notifier
+homepage: https://github.com/kth4dev/local_notifier
 
 platforms:
   linux:

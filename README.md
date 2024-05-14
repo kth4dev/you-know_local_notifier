@@ -1,4 +1,4 @@
-# youknow_local_notifier
+# local_notifier
 
 [![pub version][pub-image]][pub-url] [![][discord-image]][discord-url] ![][visits-count-image] 
 
@@ -54,7 +54,7 @@ Add this to your package's pubspec.yaml file:
 
 ```yaml
 dependencies:
-  youknow_local_notifier: ^0.1.6
+  local_notifier: ^0.1.6
 ```
 
 Or
@@ -63,7 +63,7 @@ Or
 dependencies:
   local_notifier:
     git:
-      url: https://github.com/kth4dev/youknow_local_notifier.git
+      url: https://github.com/kth4dev/local_notifier.git
       ref: main
 ```
 

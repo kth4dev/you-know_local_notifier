@@ -1,6 +1,6 @@
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
-import 'package:youknow_local_notifier/local_notifier.dart';
+import 'package:local_notifier/local_notifier.dart';
 import 'package:local_notifier_example/pages/home.dart';
 import 'package:window_manager/window_manager.dart';
 
